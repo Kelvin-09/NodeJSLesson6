@@ -1,5 +1,6 @@
 #Hello, World!
 [![Build Status](https://travis-ci.org/Kelvin-09/NodeJSLesson6.svg?branch=master)](https://travis-ci.org/Kelvin-09/NodeJSLesson6)
+[![Coverage Status](https://coveralls.io/repos/Kelvin-09/NodeJSLesson6/badge.svg)](https://coveralls.io/r/Kelvin-09/NodeJSLesson6)
 - - -
 项目功能：根据输入来返回斐波那契数列的某一位上的值
 
