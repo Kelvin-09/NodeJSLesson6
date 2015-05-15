@@ -5,8 +5,8 @@
 
 想说的话：
 
-1. 项目源自[link text](https://github.com/alsotang/node-lessons "Node.js 包教不包会 -- by alsotang")第六节
+1. 项目源自[Node.js 包教不包会 -- by alsotang](https://github.com/alsotang/node-lessons "Node.js 包教不包会 -- by alsotang")第六节
 
-2. 在[link text](https://travis-ci.org "Travis CI")上进行了测试
+2. 在[Travis CI](https://travis-ci.org "Travis CI")上进行了测试
 
 3. 这么写README文件纯粹就是为了试试怎么写markdown

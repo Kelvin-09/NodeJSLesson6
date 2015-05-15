@@ -14,5 +14,10 @@
   "devDependencies": {
     "mocha": "^2.2.4",
     "should": "^6.0.1"
+  },
+  "dependencies": {
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.14",
+    "mocha-lcov-reporter": "0.0.2"
   }
 }
